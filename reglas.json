@@ -1,0 +1,38 @@
+[
+  {
+    "pattern": "factura",
+    "tipo": "pdf",
+    "genero": "Facturas",
+    "match_type": "contains"
+  },
+  {
+    "pattern": "recibo",
+    "tipo": "pdf",
+    "genero": "Recibos",
+    "match_type": "contains"
+  },
+  {
+    "pattern": "contrato",
+    "tipo": "pdf",
+    "genero": "Contratos",
+    "match_type": "contains"
+  },
+  {
+    "pattern": "certificado",
+    "tipo": "pdf",
+    "genero": "Certificados",
+    "match_type": "contains"
+  },
+  {
+    "pattern": "programacion|python|javascript|java",
+    "tipo": "pdf",
+    "genero": "Programacion",
+    "match_type": "regex"
+  },
+  {
+    "pattern": "historia|historico",
+    "tipo": "pdf",
+    "genero": "Historia",
+    "match_type": "regex"
+  }
+]
