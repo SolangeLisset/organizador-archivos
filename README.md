@@ -159,7 +159,7 @@ Eres libre de usar, modificar y distribuir este software con atribución.
 
 ## 👨‍💻 Autor
 
-**SolangeLisset** — 2024
+**SolangeLisset** — 2026
 
 ## 🐛 Reportar problemas
 
